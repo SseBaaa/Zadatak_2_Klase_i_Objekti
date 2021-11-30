@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\bin\Debug\zadatak11_30_2021.exe.config
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\bin\Debug\zadatak11_30_2021.exe
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\bin\Debug\zadatak11_30_2021.pdb
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\obj\Debug\zadatak11_30_2021.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\obj\Debug\zadatak11_30_2021.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\obj\Debug\zadatak11_30_2021.exe
+C:\Users\sebas\source\repos\zadatak11_30_2021\zadatak11_30_2021\obj\Debug\zadatak11_30_2021.pdb
