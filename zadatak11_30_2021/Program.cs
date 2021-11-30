@@ -50,7 +50,7 @@ namespace zadatak11_30_2021
 
         public double Prosjek(int[] niz)
         {
-            int zbroj = Zbroj(niz);
+            double zbroj = Zbroj(niz);
             double prosjek = zbroj / niz.Length;
             return prosjek;
         }
